@@ -1,0 +1,118 @@
+Cannot create book Incorrect input for number of pages
+edu.monmouth.bookExercise.BookException: Incorrect input for number of pages
+	at cS205L/edu.monmouth.bookExercise.Book.setNumberOfPages(Book.java:61)
+	at cS205L/edu.monmouth.bookExercise.Book.<init>(Book.java:17)
+	at cS205L/edu.monmouth.hw3.HW3.main(HW3.java:86)
+Cannot create book Incorrect input for price
+edu.monmouth.bookExercise.BookException: Incorrect input for price
+	at cS205L/edu.monmouth.bookExercise.Book.setPrice(Book.java:102)
+	at cS205L/edu.monmouth.bookExercise.Book.<init>(Book.java:20)
+	at cS205L/edu.monmouth.hw3.HW3.main(HW3.java:86)
+Cannot create book Incorrect input
+edu.monmouth.bookExercise.BookException: Incorrect input
+	at cS205L/edu.monmouth.bookExercise.Book.setTitle(Book.java:89)
+	at cS205L/edu.monmouth.bookExercise.Book.<init>(Book.java:19)
+	at cS205L/edu.monmouth.hw3.HW3.main(HW3.java:86)
+ArrayListString is empty: false
+ArrayListBook is empty: false
+ArrayListString removes string at position 1: West Long Branch
+ArrayListBook removes book at position 1: Book numberOfPages=426, bookType=SOFTBACK, title=Data Structures and Algorithms, price=79.99
+ArrayListString size: 6
+ArrayListBook size: 11
+ArrayListString adding a string: true
+ArrayListBook adding a book: true
+Using iterator to iterate through ArrayListString:
+Monmouth University
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+TCNJ
+Using iterator to iterate through ArrayListBook:
+Book numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99
+Book numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5
+Book numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0
+Book numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99
+Book numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99
+Book numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99
+Book numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99
+Book numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95
+Book numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2
+Book numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87
+Book numberOfPages=231, bookType=HARDBACK, title=Citizen Soldier, price=54.99
+Book numberOfPages=90, bookType=HARDBACK, title=Lord of the Flies, price=8.99
+Using listiterator to iterate through ArrayListString:
+TCNJ
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+Monmouth University
+Using listiterator to iterate through ArrayListBook:
+Book numberOfPages=90, bookType=HARDBACK, title=Lord of the Flies, price=8.99
+Book numberOfPages=231, bookType=HARDBACK, title=Citizen Soldier, price=54.99
+Book numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87
+Book numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2
+Book numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95
+Book numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99
+Book numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99
+Book numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99
+Book numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99
+Book numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0
+Book numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5
+Book numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99
+
+linkedString adding a string: true
+linkedBook adding a book: true
+Using iterator to iterate through linkedString:
+Monmouth University
+West Long Branch
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+Cornell
+Using iterator to iterate through linkedBook:
+Book numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99
+Book numberOfPages=426, bookType=SOFTBACK, title=Data Structures and Algorithms, price=79.99
+Book numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5
+Book numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0
+Book numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99
+Book numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99
+Book numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99
+Book numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99
+Book numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95
+Book numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2
+Book numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87
+Book numberOfPages=231, bookType=HARDBACK, title=Citizen Soldier, price=54.99
+Book numberOfPages=90, bookType=HARDBACK, title=Lord of the Flies, price=8.99
+Using listiterator to iterate through linkedString:
+Cornell
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+West Long Branch
+Monmouth University
+Using listiterator to iterate through linkedBook:
+Book numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99
+Book numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99
+Book numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99
+Book numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99
+Book numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0
+Book numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5
+Book numberOfPages=426, bookType=SOFTBACK, title=Data Structures and Algorithms, price=79.99
+Book numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99
+
+linkedString removes the string: true
+linkedBook removes the book: true
+linkedString contains: true
+linkedBook contains: true
+linkedString removes string at position 1: false
+linkedBook removes book at position 1: false
+linkedString contains: false
+linkedBook contains: false

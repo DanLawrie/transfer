@@ -1,0 +1,20 @@
+1. When compared to ArrayLists, LinkedLists should be used when there is a large 
+number of additions or deletions. Explain why this is the case
+
+You should use linkedlists or arraylists because they can change size easily and can also store a great deal of objects.
+
+2. What is the internal data structure of an ArrayList?
+
+An arraylist stores the data internally using an array of objects.
+
+3. What is the internal data structure of a LinkedList?
+
+A linkedlist store the added elements using Node objects
+
+4.To what java package do all Java Collection Framework classes belong?
+
+java.util
+
+5.What Book method gets executed when the List method contains is used?
+
+The equals method

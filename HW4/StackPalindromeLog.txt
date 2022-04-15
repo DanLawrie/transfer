@@ -1,0 +1,7 @@
+kayak: palindrome
+simple: not a palindrome
+civic: palindrome
+level: palindrome
+Monmouth: not a palindrome
+beach: not a palindrome
+

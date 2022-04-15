@@ -1,0 +1,19 @@
+1.What is the stack’s order of insertion and removal?
+
+Last in first out
+
+2.What operation inserts an element in a stack?
+
+push()
+
+3.What operation removes an element from the stack?
+
+pop()
+
+4.From what part of the stack do all operations occur?
+
+the top of the stack
+
+5.Is a stack a linear data structure?
+
+Yes, because it follows the LIFO rule and can only be accessed from the top.

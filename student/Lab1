@@ -1,0 +1,20 @@
+The number of elements in the array students = 5
+
+Students array: 
+id=100, age=18, name=John
+id=101, age=19, name=Jane
+id=102, age=20, name=Larry
+id=103, age=20, name=Karen
+id=104, age=21, name=Karl
+
+The youngest student= id=100, age=18, name=John
+The oldest student= id=104, age=21, name=Karl
+
+Students less then 20: 
+id=100, age=18, name=John
+id=101, age=19, name=Jane
+
+newStudents array:
+id=102, age=21, name=Larry
+id=103, age=20, name=Karen
+id=104, age=21, name=Karl

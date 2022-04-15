@@ -1,0 +1,20 @@
+
+1)It is a class that contains an instance variable that refers to another object of the same class.
+public class Example{
+	Example one;
+
+}
+
+2) I would use a linked list because the boats are objects that can either hold 1 or 2 passengers
+
+3) O(n) because the time it takes to find a variable is changing.
+
+4) Throwing an exception
+
+5) Yes because by making a new book instead of a string, you are also creating all the book methods that go along with it.
+
+6) O(n) because the time it would take to get the size of this list is dependent on the number of elements.
+
+7) O(1) because it will take the same amount of time.
+
+
